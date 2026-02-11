@@ -6,7 +6,7 @@ I'm a passionate Information Science student from Bengaluru with a strong intere
 
 ### 🚀 What I'm Currently Working On
 
-* **Learning Python:** Working through core concepts from data structures to web APIs. You can follow my progress in my [UpskillingJourney](https://github.com/Shravyaan/UpskillingJourney) repository.
+* **Learning Python:** Working through core concepts from data structures to web APIs. You can follow my progress in my [MyTechJourney](https://github.com/Shravyaan/MyTechJourney) repository.
 * **DevOps Fundamentals:** Exploring key concepts like Infrastructure as Code (IaC) and containerization with Docker.
 * **Building My Portfolio:** Creating mini-projects like my [Airport Info Fetcher](https://github.com/Shravyaan/UpskillingJourney/blob/main/Mini_Project2/airport_fetcher.py)to practice my skills.
 
